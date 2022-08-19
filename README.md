@@ -38,4 +38,5 @@ Course:
  * SQL for Data Analysis
 
 
-🙌🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/virendra-gautam/)
+🙌🏻 Connect with me on   
+[LinkedIn](https://www.linkedin.com/in/virendra-gautam/)
