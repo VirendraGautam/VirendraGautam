@@ -34,8 +34,8 @@ I'm Virendra, an SEO Analyst from INDIA with 4+ years of industry experience.
    7. Audience, Comparisons
    8. Custom Reporting (Exploration in GA4, Looker Studio)
    9. Analyzing website traffic and user behavior through different GA4 reports
-  10. Integrating with Google Products - Google Ads, Google Search Console, etc.
-  11. Managing GTM containers, Tags and Triggers.
+   10. Integrating with Google Products - Google Ads, Google Search Console, etc.
+   11. Managing GTM containers, Tags and Triggers.
 
 
 * SEO 
@@ -49,12 +49,12 @@ I'm Virendra, an SEO Analyst from INDIA with 4+ years of industry experience.
   8. Analyzing website's health, content and structure using different tool - 
 
 * Important Tools - 
- - GSC (website health & technical difficulties observed by Google),  
- - Screaming Frog (Website Structure & SEO Guide) 
- - Page Speed Insight & GTMetrix for (Page Speed)
- - Semrush (Content)
- - Ahref/WebPageTest (SEO Audit)
- - SEO Meta Inspector for Meta Tags & Descriptions with other details
+  - GSC (website health & technical difficulties observed by Google),  
+  - Screaming Frog (Website Structure & SEO Guide) 
+  - Page Speed Insight & GTMetrix for (Page Speed)
+  - Semrush (Content)
+  - Ahref/WebPageTest (SEO Audit)
+  - SEO Meta Inspector for Meta Tags & Descriptions with other details
 
 Data Visualization
    Power BI to visually understand about the incoming leads to CRM and other task
