@@ -45,8 +45,8 @@ I'm Virendra, an SEO Analyst from INDIA with 4+ years of industry experience.
   4. Organic Link Building
   5. Keyword Planning (Google Keyword Planner, other tools & techniques)
   6. Website Structure & Content Planning.
- 7. Structured Data
- 8. Analyzing website's health, content and structure using different tool - 
+  7. Structured Data
+  8. Analyzing website's health, content and structure using different tool - 
 
 * Important Tools - 
  - GSC (website health & technical difficulties observed by Google),  
