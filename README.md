@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Virendra, an SEO Analyst from INDIA with 4+ years of industry experience.
+I'm Virendra, an SEO Analyst from INDIA with 5+ years of industry experience.
 
 ✨ **About Me in 30 Secs** ✨       
 
@@ -26,7 +26,7 @@ I'm Virendra, an SEO Analyst from INDIA with 4+ years of industry experience.
 📚 **Skill on Work** 📚                  
  * Google Analytics & GTM
    1. Migrating from UA to GA4.
-   2. Implementing Tracking & Events using GTM.
+   2. Implementing Tracking and events using GTM.
    3. Configuring GA4 as per business needs.
    4. Setting up custom definitions
    5. Filter (Internal & Developer)
